@@ -1,0 +1,18 @@
+{
+  "name": "connect-replace",
+  "description": "connect middleware that replaces tags in response for files matching a pattern",
+  "version": "0.0.1",
+  "author": "Emil Stenqvist",
+  "main": "./index.js",
+  "dependencies": {
+    "connect": ">=1 <2",
+    "mime": ">=0.0.1",
+    "send": "~0.1.0",
+    "underscore": "~1.4.4",
+    "url": "~0.7.9"
+  },
+  "engines": {
+    "node": ">= 0.9"
+  },
+  "devDependencies": {}
+}
